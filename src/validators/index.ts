@@ -1,3 +1,4 @@
+export { default as isBoleto } from './isBoleto';
 export { default as isCEP } from './isCEP';
 export { default as isCNPJ } from './isCNPJ';
 export { default as isCPF } from './isCPF';
